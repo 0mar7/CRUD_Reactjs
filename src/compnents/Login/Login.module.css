@@ -1,0 +1,11 @@
+.loginCard{
+    width:50%;
+    border-radius: 10px;
+}
+
+
+@media (max-width:991px){
+    .loginCard{
+        width: 100%;
+    }
+}

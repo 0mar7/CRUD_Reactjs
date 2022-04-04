@@ -1,0 +1,29 @@
+.MainFooter{
+    /* background-color: rgba(0, 0, 0, 0.6); */
+    background-color: #191c47;
+    text-align: center;
+    bottom: 0;
+}
+.logoImg{
+    width: 100px;
+    object-fit: contain;
+    margin: 5px 10px; 
+}
+
+.socialContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.span{
+    color: white;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.footerBg{
+    background-color: rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+    padding: 15px;
+    color: white;
+}

@@ -1,0 +1,20 @@
+.employeeContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+
+
+@media (max-width:768px){
+    .header{
+        flex-direction: column;
+    }
+    th,td{
+        font-size: 12px;
+    }
+}
+
+

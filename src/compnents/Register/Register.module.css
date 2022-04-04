@@ -1,0 +1,20 @@
+.RegisterCard{
+    width:50%;
+    margin:auto;
+    border-radius: 10px;
+}
+
+.button{
+    width:25%;
+}
+
+
+@media (max-width:991px){
+    .RegisterCard{
+        width: 100%;
+    }
+
+    .button{
+        width:50%;
+    }
+}
